@@ -1,0 +1,29 @@
+body{
+	
+}
+.FirstSection{
+	width: 100%;
+	height: 500px;
+	text-align: center;
+}
+.SecondSection{
+	background-image: url(http://gilarniavaran.ir/wp-content/uploads/2014/05/img-6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	line-height: 100vh;
+	text-align: center;
+}
+.ThirdSection{
+	width: 100%;
+	height: 500px;
+	background-color: #111471;
+}
+.svgImg{
+	height: 500px;
+	width: 100%;
+}
+.footerParagraph{
+	background-color: #ccc;
+	margin-top: 0px;
+}
